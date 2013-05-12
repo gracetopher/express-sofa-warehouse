@@ -2,10 +2,10 @@
 		
 	<h2>SOFAS</h2>
 	  <div class="block_content">
-		<div class="editable">
+		<div class="editable"> <!-- editable class makes this section od products editable -->
 		  <ul class="clearfix">
-		    <li class="repeatable">
-		      <?php include("thumbnails/thumb-palermo.php"); ?>
+		    <li class="repeatable"> <!-- repeatable class allows the individual product to be copied, reordered and deleted -->
+		      <?php include("thumbnails/thumb-palermo.php"); ?>  <!-- includes the product thumbnail -->
 		    </li>
 		    
 		    <li class="repeatable">

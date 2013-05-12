@@ -1,4 +1,4 @@
-<?php include("header.php"); // Add header here ?>
+<?php include("header.php"); ?> <!-- includes the header -->
 		
 	<div class="slider-wrapper theme-default">
 	  	<div id="slider" class="nivoSlider">
@@ -63,4 +63,4 @@
 		</ul>
   	</div>
 
-<?php include("footer.php"); ?>
+<?php include("footer.php"); ?> <!-- includes the footer -->
