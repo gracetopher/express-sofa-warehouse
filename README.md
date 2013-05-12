@@ -1,14 +1,16 @@
 express-sofa-warehouse
 ======================
 
-Showcase of code for my Express Sofa Warehouse project. This project demonstrate how I have used PHP to template the 
+Showcase of code for my Express Sofa Warehouse project. This project demonstrates how I have used PHP to template the 
 website, and also make it easy for the CMS administrator to make content changes using 'Surreal CMS'.
+
+[See files for comments]
 
 index.php
 
 The index file shows how I have used PHP include statements to add the header and footer. This allows me to make 
 changes to one file, which will then be saved across the entire website.
-I have also used PHP include statements here to add the product thumbnails to the 'featured products' category on the
+I have also used PHP include statements here to add product thumbnails to the 'featured products' category on the
 homepage. 
 All product thumbnails are used more then once throughout the website, making it easy for both the CMS administrator
 and myself to make changes.
@@ -17,7 +19,7 @@ thumbnails/thumb-palermo.php
 
 The thumb-palermo.php file is an example of a typical product thumbnail being used across the website. These files are 
 used on the homepage, the menu/category pages and the single product pages under 'other available products'. Therefore, 
-it is important for the CMS administrator that these file are only editable from one place.
+it is important for the CMS administrator that these file are only editable from one place (see sofa.php).
 
 sofa.php
 
