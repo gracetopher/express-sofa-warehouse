@@ -31,19 +31,19 @@
 		<div class="block_content">
 			<ul class="clearfix">
 			  <li>
-				<?php include("includes/thumb-valentina.php"); ?>
+				<?php include("thumbnails/thumb-valentina.php"); ?>
 			  </li>
 			  
 			  <li>
-				<?php include("includes/thumb-westpoint.php"); ?>
+				<?php include("thumbnails/thumb-westpoint.php"); ?>
 			  </li>
 			  
 			  <li>
-				<?php include("includes/thumb-drive.php"); ?>
+				<?php include("thumbnails/thumb-drive.php"); ?>
 			  </li>
 			  
 			  <li>
-				<?php include("includes/thumb-katia.php"); ?>
+				<?php include("thumbnails/thumb-katia.php"); ?>
 			  </li>
 			</ul>
   		</div>
