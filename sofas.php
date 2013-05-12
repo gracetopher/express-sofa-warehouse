@@ -5,47 +5,47 @@
 		<div class="editable">
 		  <ul class="clearfix">
 		    <li class="repeatable">
-		      <?php include("includes/thumb-palermo.php"); ?>
+		      <?php include("thumbnails/thumb-palermo.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-westpoint.php"); ?>
+		      <?php include("thumbnails/thumb-westpoint.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-valentina.php"); ?>
+		      <?php include("thumbnails/thumb-valentina.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-katia.php"); ?>
+		      <?php include("thumbnails/thumb-katia.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-drive.php"); ?>
+		      <?php include("thumbnails/thumb-drive.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-dylan.php"); ?>
+		      <?php include("thumbnails/thumb-dylan.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-dylan-corner.php"); ?>
+		      <?php include("thumbnails/thumb-dylan-corner.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-candy.php"); ?>
+		      <?php include("thumbnails/thumb-candy.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-malaysia.php"); ?>
+		      <?php include("thumbnails/thumb-malaysia.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-nina.php"); ?>
+		      <?php include("thumbnails/thumb-nina.php"); ?>
 		    </li>
 		    
 		    <li class="repeatable">
-		      <?php include("includes/thumb-texas.php"); ?>
+		      <?php include("thumbnails/thumb-texas.php"); ?>
 		    </li>
 		  </ul>
 		</div>
